@@ -1,7 +1,7 @@
 # RATLIP
 
 RATLIP: Generative Adversarial CLIP Text-to-Image Synthesis Based  on Recurrent Affine Transformations
-![](https://secure2.wostatic.cn/static/2iz7Fb5zJJfuCmYCcCbWNy/image.png?auth_key=1715613387-gTW6xfpfzcdMASegPeJdgd-0-aa58e1a753fb3b9594e760aafa3bd71a)
+![](./rat.png)
 
 
 ## Requirements
@@ -76,7 +76,7 @@ tensorboard --logdir your_path --port 8166
 
 ### Visualization
 
-![](https://secure2.wostatic.cn/static/9kCoFihunNEpzXfCEqH1de/image.png?auth_key=1715613387-icBkxU9oN5XNYRxizYGEpx-0-1a7334d56581487e715763172fefe437)
+![](./result.png)
 
 ### Experiments
 
