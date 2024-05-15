@@ -85,10 +85,10 @@ Compare RATLIP and state-of-the-art models on FID values (the smaller, the bette
 
 | Model   | CUB   | CelebA-tiny |
 | ------- | ----- | ----------- |
-| AttnGAN | 23.98 | 125.98      |
+| AttnGAN | 23.98 |   125.98    |
 | LAFITE  | 14.58 | -           |
 | DF-GAN  | 14.81 | 137.6       |
-| GALIP   | 10    | 94.45       |
+| GALIP   | 10.00 | 94.45       |
 | Ours    | 13.28 | 81.48       |
 
 Compare RATLIP and state-of-the-art models on CLIP score values (the bigger, the better).
@@ -101,7 +101,7 @@ Compare RATLIP and state-of-the-art models on CLIP score values (the bigger, the
 | GALIP   | 31.60 | 31.77       | 27.95  |
 | Ours    | 32.03 | 31.94       | 28.91  |
 
-## Citing 
+## Citation
 
 ```Bash
 @misc{lin2024ratlip,
