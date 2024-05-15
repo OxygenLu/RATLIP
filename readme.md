@@ -100,10 +100,17 @@ Compare RATLIP and state-of-the-art models on CLIP score values (the bigger, the
 | GALIP   | 31.60 | 31.77       | 27.95  |
 | Ours    | 32.03 | 31.94       | 28.91  |
 
-## Citing RATLIP
+## Citing 
 
 ```Bash
-
+@misc{lin2024ratlip,
+      title={RATLIP: Generative Adversarial CLIP Text-to-Image Synthesis Based on Recurrent Affine Transformations}, 
+      author={Chengde Lin and Xijun Lu and Guangxi Chen},
+      year={2024},
+      eprint={2405.08114},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 ```
 
 ## Acknowledgement
