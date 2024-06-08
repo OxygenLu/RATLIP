@@ -82,24 +82,23 @@ tensorboard --logdir your_path --port 8166
 ### Experiments
 
 Compare RATLIP and state-of-the-art models on FID values (the smaller, the better).
-
 | Model   | CUB   | CelebA-tiny |
-| ------- | ----- | ----------- |
-| AttnGAN | 23.98 |   125.98    |
-| LAFITE  | 14.58 | -           |
-| DF-GAN  | 14.81 | 137.6       |
-| GALIP   | 10.00 | 94.45       |
-| Ours    | 13.28 | 81.48       |
+| :-------: | :-----: | :-----------: |
+|[AttnGAN ](https://arxiv.org/abs/1711.10485)| 23.98 | 125.98      |
+|[LAFITE ](https://arxiv.org/abs/2111.13792)| 14.58 | -           |
+|[DF-GAN ](https://github.com/tobran/DF-GAN)| 14.81 | 137.60      |
+|[GALIP ](https://github.com/tobran/GALIP)| 10.00 | 94.45       |
+| **Ours**  | **13.28** | **81.48**      |
 
 Compare RATLIP and state-of-the-art models on CLIP score values (the bigger, the better).
 
 | Model   | CUB   | CelebA-tiny | Oxford |
-| ------- | ----- | ----------- | ------ |
-| AttnGAN | -     | 21.15       | -      |
-| LAFITE  | 31.25 | -           | -      |
-| DF-GAN  | 29.20 | 26.67       | 24.41  |
-| GALIP   | 31.60 | 31.77       | 27.95  |
-| Ours    | 32.03 | 31.94       | 28.91  |
+| :-------: | :-----: | :----------: | :------: |
+|[AttnGAN ](https://arxiv.org/abs/1711.10485)| -     | 21.15       | -      |
+|[LAFITE ](https://arxiv.org/abs/2111.13792)| 31.25 | -           | -      |
+|[DF-GAN ](https://github.com/tobran/DF-GAN)|29.20 | 26.67       | 24.41  |
+|[GALIP ](https://github.com/tobran/GALIP)| 31.60 | 31.77       | 27.95  |
+| **Ours**  | **32.03** | **31.94**    | **28.91**  |
 
 ## Citation
 
