@@ -92,7 +92,7 @@ Compare RATLIP and state-of-the-art models on FID values (the smaller, the bette
 
 Compare RATLIP and state-of-the-art models on CLIP score values (the bigger, the better).
 
-| Model   | CUB   | CelebA-tiny | Oxford |
+| Model   | CUB    | Oxford |CelebA-tiny| 
 | :-------: | :-----: | :----------: | :------: |
 |[AttnGAN ](https://arxiv.org/abs/1711.10485)| -     | 21.15       | -      |
 |[LAFITE ](https://arxiv.org/abs/2111.13792)| 31.25 | -           | -      |
