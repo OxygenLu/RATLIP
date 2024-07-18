@@ -1,9 +1,10 @@
-# RATLIP
+# RATLIP（2024 SMC）
 > Paper: [![arXiv](https://img.shields.io/badge/arXiv-2405.00354-b31b1b.svg)](https://arxiv.org/abs/2405.08114)
 
 RATLIP: Generative Adversarial CLIP Text-to-Image Synthesis Based  on Recurrent Affine Transformations
-![](./rat.png)
 
+**This is a novel framework for text-to-image synthesis that connects context information.**
+![](./rat.png)
 
 ## Requirements
 
