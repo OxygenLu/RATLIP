@@ -1,5 +1,5 @@
 tqdm
-numpy
+numpy==1.26.1
 torch==1.11.0
 torchvision
 easydict
