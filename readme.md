@@ -1,11 +1,11 @@
 <div align="center">
-<h2>RATLIP: Generative Adversarial CLIP Text-to-Image Synthesis Based  on Recurrent Affine Transformations[SMC2024]</h2>
+<h2>RATLIP: Generative Adversarial CLIP Text-to-Image Synthesis Based  on Recurrent Affine Transformations</h2>
       Chengde Lin · Xijun Lu · Guangxi Chen
 </div>
 
 > Paper: [![arXiv](https://img.shields.io/badge/arXiv-2405.00354-b31b1b.svg)](https://arxiv.org/abs/2405.08114)
 
-This work is accepted by IEEE International Conference on Systems, Man, and Cybernetics.
+
 
 # An interesting framework for text-to-image synthesis that connects context information.
 ![](./rat.png)
